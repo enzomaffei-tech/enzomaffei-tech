@@ -1,44 +1,79 @@
-### 🛡️ Sobre Mim
+# Olá 👋, eu sou o Enzo Maffei
 
-Estudante de **Segurança da Informação na FATEC São Caetano do Sul** com background analítico em **gestão financeira e controle de processos**. Unifico a visão analítica de negócios e governança à proteção de ativos digitais, análise de riscos e prevenção a fraudes.
+🛡️ **Information Security Specialist in Training | Cyber Risk & Cloud Security**  
+🇧🇷 Santo André, SP - Brasil
 
-- 🎓 **Graduação:** Tecnólogo em Segurança da Informação — FATEC (Previsão: 2027)
-- 🎯 **Foco de Atuação:** Cibersegurança, Cyber Risk, Prevenção a Fraudes, Cloud Security e Auditoria de TI.
-- ⚡ **Diferencial:** Capacidade de associar controles operacionais rigorosos à arquitetura técnica de segurança da informação.
+Desenvolvo e analiso soluções voltadas para **Segurança da Informação**, **Mitigação de Riscos (Cyber Risk)**, **Prevenção a Fraudes** e **Infraestrutura em Nuvem**.  
+Tenho foco em **Análise de Vulnerabilidades, Arquitetura de Redes, Governança, Python/SQL e AWS Cloud**.
 
----
-
-### 🛠️ Tecnologias & Competências
-
-#### **Segurança & Redes**
-`Cybersecurity Fundamentals` `Cisco NetAcad` `Análise de Vulnerabilidades` `Segurança de Redes` `AWS Security`
-
-#### **Linguagens & Dados**
-`Python` `SQL` `Power BI` `Análise de Dados` `Excel Avançado`
-
-#### **Cloud & Infraestrutura**
-`Amazon Web Services (AWS)` `AWS Cloud Practitioner` `IAM` `Estruturação de Infraestrutura`
+Unifico uma visão analítica de negócios e controle financeiro à proteção de ativos digitais e conformidade de TI.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🌐 Onde me encontrar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzohugo967-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de Enzo" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzohugo967-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/enzo-maffei-672a07261">
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Maffei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:enzohugo967@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-enzohugo967%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Destaques & Projetos
+## 🧠 O que eu faço
 
-- **Banco de Dados para Evidências Forenses (Python & SQL):** Sistema em Python integrado a banco de dados relacional para estruturação, rastreabilidade e gestão de evidências forenses digitais.
-- **Laboratórios de Redes & Segurança (Cisco Packet Tracer):** Projetos focados em topologia de redes, segmentação de VLANs e políticas de segurança.
+- 🛡️ **Cybersecurity & Cyber Risk:** Análise de vulnerabilidades, monitoramento e proteção de ativos digitais
+- 🕵️‍♂️ **Prevenção a Fraudes & Auditoria de TI:** Análise preditiva e investigativa apoiada por dados
+- ☁️ **Cloud Security:** Gestão de identidades, acessos e políticas em ambientes AWS
+- 🌐 **Redes & Infraestrutura:** Arquitetura e rotas seguras com suporte à metodologia Cisco NetAcad
+- 📊 **Análise de Dados:** Queries complexas e automações para controle e rastreabilidade (Python & SQL)
+- 📋 **Governança & Riscos Operacionais:** Mitigação de riscos alinhando regras de negócio e compliance
 
 ---
 
-### 📬 Vamos nos conectar?
+## 🛠️ Tech Stack
 
-- 💼 **LinkedIn:** [Enzo Maffei](https://www.linkedin.com/in/enzo-maffei-672a07261)
-- 📧 **E-mail:** [enzohugo967@gmail.com](mailto:enzohugo967@gmail.com)
-- 📍 **Localização:** Santo André, SP - Brasil
+### Cibersegurança, Redes & Cloud
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=generalelectric&logoColor=00f0ff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Linguagens & Dados
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Ferramentas & Controle
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzohugo967-byte&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzohugo967-byte&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Segurança não se trata apenas de bloquear acessos.  
+> Trata-se de construir processos resilientes que protegem o negócio, garantem a integridade dos dados e sustentam o crescimento seguro."_
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios  
+🤝 ABERTO A CONEXÕES, PARCERIAS E OPORTUNIDADES NA ÁREA DE CYBER, RISKS & FRAUD!
