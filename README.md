@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Enzo Maffei
+# Olá 👋, eu sou Enzo Maffei
 
 🛡️ **Information Security Specialist in Training | Cyber Risk & Cloud Security**  
 🇧🇷 Santo André, SP - Brasil
